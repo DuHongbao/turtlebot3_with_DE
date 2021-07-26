@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/derek/turtlebot3_ws/turtlebot3/devel/include/**",
+        "/home/derek/catkin_ws/OpenMACE-0.0.2/catkin_sim_environment/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/derek/turtlebot3_ws/turtlebot3/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/derek/catkin_ws/OpenMACE-0.0.2/catkin_sim_environment/src/mace_matlab_msgs/include/**",
+        "/home/derek/catkin_ws/OpenMACE-0.0.2/catkin_sim_environment/src/mace_matlab_node/include/**",
+        "/home/derek/turtlebot3_ws/turtlebot3/src/modulation_velocity/include/**",
+        "/home/derek/catkin_ws/OpenMACE-0.0.2/catkin_sim_environment/src/sim_gazebo_plugins/include/**",
+        "/home/derek/catkin_ws/OpenMACE-0.0.2/catkin_sim_environment/src/sim_sensors_node/include/**",
+        "/home/derek/turtlebot3_ws/turtlebot3/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/derek/turtlebot3_ws/turtlebot3/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/derek/turtlebot3_ws/turtlebot3/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
